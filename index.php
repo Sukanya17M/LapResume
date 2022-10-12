@@ -13,6 +13,8 @@ html,body,h2,h3,h4,h5,h6 {font-family: "LilyUPC", sans-serif}
 html,body,h1 {font-family: "Cooper Black", sans-serif}
 </style>
 </head>
+  <h1>RESUME</h1>
+<h2>MAHASARAKHAM UNIVERSITY,THAILAND</h2>
 <body class="w3-light-grey">
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width: 1400px; font-family: Roboto, sans-serif;">
