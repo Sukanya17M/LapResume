@@ -2,7 +2,6 @@
 <html>
 <head>
 <title>Sukanya Mayotha </title>
-h1,h2 {text-align: center;}
 <h1>RESUME</h1>
 <h2>MAHASARAKHAM UNIVERSITY,THAILAND</h2>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,6 +9,7 @@ h1,h2 {text-align: center;}
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+h1,h2 {text-align: center;}
 html,body,h2,h3,h4,h5,h6 {font-family: "LilyUPC", sans-serif}
 html,body,h1 {font-family: "Cooper Black", sans-serif}
 </style>
