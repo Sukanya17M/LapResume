@@ -2,7 +2,6 @@
 <html>
 <head>
 <title>Sukanya Mayotha </title>
- <style>
 h1,h2 {text-align: center;}
 <h1>RESUME</h1>
 <h2>MAHASARAKHAM UNIVERSITY,THAILAND</h2>
