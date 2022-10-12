@@ -2,7 +2,9 @@
 <html>
 <head>
 <title>Sukanya Mayotha </title>
-<h1>{text-align: center;}RESUME</h1>
+ <style>
+h1,h2 {text-align: center;}
+<h1>RESUME</h1>
 <h2>MAHASARAKHAM UNIVERSITY,THAILAND</h2>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
