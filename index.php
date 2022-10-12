@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Sukanya Mayotha </title>
-<h1>RESUME</h1>
+<h1>{text-align: center;}RESUME</h1>
 <h2>MAHASARAKHAM UNIVERSITY,THAILAND</h2>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -13,8 +13,6 @@ html,body,h2,h3,h4,h5,h6 {font-family: "LilyUPC", sans-serif}
 html,body,h1 {font-family: "Cooper Black", sans-serif}
 </style>
 </head>
-  <h1>RESUME</h1>
-<h2>MAHASARAKHAM UNIVERSITY,THAILAND</h2>
 <body class="w3-light-grey">
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width: 1400px; font-family: Roboto, sans-serif;">
