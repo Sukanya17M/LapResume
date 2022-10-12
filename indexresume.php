@@ -149,42 +149,7 @@ html,body,h1 {font-family: "Cooper Black", sans-serif}
       
             </div>
       
-      
-    <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-pink w3-padding-16"><i class="fa fa-arrow-up fa-fw w3-margin-right w3-xxlarge w3-text-blue"></i>Self-Development</h2>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>Workshop &amp; Adaptive Lecture</b></h5>
-          <h6 class="w3-text-blue"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2022</h6>      
-          <hr>
-        </div>
-        
-      <div class="w3-container">
-          <h5 class="w3-opacity">พัฒนาชุดทดลองปัญญาประดิษฐ์เพื่อพัฒนาทักษะด้านดิจิทัล </h5>
-          <h6 class="w3-text-blue"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2022</h6>      
-          <hr>
-        </div>
-         <div class="w3-container">
-          <h5 class="w3-opacity">Digital Literacy EXIT EXAM</h5>
-          <h6 class="w3-text-blue"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021</h6>    
-          <hr>
-      </div>
-        
-          <div class="w3-container">
-            <h5 class="w3-opacity">การสร้างสรรค์เนื้อหาข้อมูล DATA เพื่อคุณค่าขององค์กร</h5>
-            <h5 class="w3-opacity">การจัดการธุรกิจการค้าสมัยใหม่ในยุค Thailand 4.0<br>
-              เทคโนโลยีการเงิน<br>
-              สุดยอดแนวคิดธุรกิจดิจิทัล</h5>
-          <h6 class="w3-text-blue"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021</h6>  
-          <hr>
-      </div>
-        
-    </div>
-
-    <!-- End Right Column -->
-    </div>
-    
-  <!-- End Grid -->
-  </div>
+     
   
   <!-- End Page Container -->
 </div>
@@ -197,8 +162,7 @@ html,body,h1 {font-family: "Cooper Black", sans-serif}
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p>Powered by <a href="http://mbs.msu.ac.th/2022/" target="_blank">MBS,MSU</a></p>
-</footer>
+  
 
 </body>
 </html>
